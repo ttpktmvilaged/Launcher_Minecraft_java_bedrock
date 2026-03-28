@@ -7,8 +7,9 @@ Minecraft_java_bedrock
 ![1000531811](https://github.com/user-attachments/assets/e880fa06-6494-4c0b-bc42-ce7deaec2cfa)
 ![1000531810](https://github.com/user-attachments/assets/c99d3aaa-91b7-4a01-9b0a-ea410be0b944)
 
-shade đang sử dụng 
+shade đang sử dụng Eclipse
 
 phiên bản Việt hóa https://github.com/ttpktmvilaged/Launcher_Minecraft_java_bedrock/releases/tag/Shade
 
 phiên bản gốc 
+https://github.com/Merlin1809/Eclipse-Shader
